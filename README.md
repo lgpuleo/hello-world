@@ -1,2 +1,3 @@
 # hello-world
-following the github tutorial
+
+I'm creating this github account to store and showcase my work.
